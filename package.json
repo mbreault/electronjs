@@ -1,0 +1,19 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "electronjs tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbreault/electronjs/issues"
+  },
+  "homepage": "https://github.com/mbreault/electronjs#readme",
+  "devDependencies": {
+    "electron": "^6.0.8"
+  }
+}
